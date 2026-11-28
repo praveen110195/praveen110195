@@ -1,130 +1,100 @@
+<div align="center">
+
 # 👋 Hi, I'm Praveen Maurya
 
-### 💫 About Me:
-I'm a Software Engineer passionate about building scalable applications and distributed systems.
+### Senior Java Full Stack Engineer | Distributed Systems | Cloud & Applied AI
 
-- 💻 Java Full Stack Developer
-- ☕ Experienced in Java, Spring Boot and Microservices
-- 🚀 Interested in System Design, Cloud Computing and AI
-- 📚 Continuously learning new technologies and solving real-world problems
-- 🎯 Focused on writing clean, maintainable and scalable code
+I build scalable backend services, full-stack applications, and practical AI experiments.
 
----
+**Java · Spring Boot · Microservices · Kafka · React · AWS · RAG · MCP**
 
-### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praveen110195/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/praveen110195)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github)](https://github.com/praveen110195)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praveen110195/)
+
+</div>
 
 ---
 
-### 💻 Tech Stack:
+## 💫 About Me
 
-**Languages**
+I'm a Java full stack engineer with **8+ years of software development experience**, focused on building maintainable, resilient, cloud-ready services and user-facing applications.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- 🔭 **Engineering focus:** Java, Spring Boot, microservices, distributed systems, API design, and React.
+- ☁️ **Cloud & delivery:** AWS, Docker, Kubernetes, Jenkins, and CI/CD.
+- 🤖 **Currently exploring:** Retrieval-Augmented Generation (RAG), LangChain4j, Model Context Protocol (MCP), and multi-agent AI systems.
+- 📚 **What you'll find here:** Hands-on sample applications and learning projects with real code.
+- 🤝 **Let's connect:** Open to constructive feedback, knowledge sharing, and collaboration.
 
-**Backend & Frameworks**
+## 🚀 Featured Projects
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+| Project | What you'll find | Stack |
+| --- | --- | --- |
+| [📄 AI RAG Learning Lab](https://github.com/praveen110195/AI_RAG_LEARNING) | PDF ingestion, embeddings, vector search, and document-grounded Q&A | Python, Streamlit, PostgreSQL, pgvector |
+| [🔌 MCP AI Workflow](https://github.com/praveen110195/mcp) | Database-backed tools exposed through an MCP server with a Streamlit interface | Python, FastAPI, MCP, Streamlit |
+| [☕ LangChain4j Demo](https://github.com/praveen110195/langchain4j-Demo) | Java examples for experimenting with LangChain4j | Java |
+| [🧠 Multi-Agent Demo](https://github.com/praveen110195/multi-ai-agent-demo) | Experimental multi-agent AI implementation | Java |
+| [🧭 Supervisor Agent Demo](https://github.com/praveen110195/supervisor-agent-demo) | Experimental supervisor-agent implementation | Java |
+| [🙋 Human-in-the-Loop AI](https://github.com/praveen110195/agentic-ai-human-in-loop) | Exploring human review in agentic AI workflows | Java |
 
-**Frontend**
+**More experiments:** [Java MCP](https://github.com/praveen110195/MCP-1.0) · [MCP HTTP Interfaces](https://github.com/praveen110195/mcp-http-interfaces) · [Shopping App](https://github.com/praveen110195/shopping-app)
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+## 💻 Tech Stack
 
-**Database & Messaging**
+**Languages & backend**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 
-**Cloud & DevOps**
+**Frontend & data**
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![React](https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
----
+**Cloud & delivery**
 
-### 📊 GitHub Stats:
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=praveen110195&show_icons=true&theme=tokyonight)
+**Applied AI:** RAG · pgvector · LangChain4j · MCP · AI Agents
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=praveen110195&layout=compact&theme=tokyonight)
+## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=praveen110195&theme=tokyonight)
+<div align="center">
 
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=praveen110195&show_icons=true&theme=tokyonight&hide_border=true)
 
-🚀 Featured Projects
+### Most Used Languages
 
-🤖 MCP - AI Workflow
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=praveen110195&layout=compact&theme=tokyonight&hide_border=true)
 
-Database-backed AI workflow integrating multiple components:
+![GitHub Streak](https://streak-stats.demolab.com?user=praveen110195&theme=tokyonight&hide_border=true)
 
-FastAPI REST API for database operations.
+</div>
 
-MCP Server for exposing API functionality as tools.
+> Language statistics summarize public GitHub repository code; they do not measure engineering proficiency.
 
-Streamlit UI for user interaction.
+## 🤝 Explore, Learn & Collaborate
 
-OpenAI integration for AI-powered responses.
+Interested in Java microservices, resilient distributed systems, practical AI, or MCP? Explore a project, try its examples, and open an issue with questions or suggestions.
 
-Tech: Python, FastAPI, MCP, Streamlit, OpenAI
+**🌐 Connect:** [LinkedIn](https://www.linkedin.com/in/praveen110195/) · [GitHub](https://github.com/praveen110195)
 
-🧠 AI RAG Learning Lab
+## 💭 Random Motivational Quote
 
-A Retrieval-Augmented Generation application that allows users to upload PDF documents and ask questions based on their content.
+<div align="center">
 
-PDF text extraction and chunking.
+![Developer Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-Embedding generation and storage.
+**Keep Learning · Keep Building · Keep Growing 🚀**
 
-PostgreSQL with pgvector for vector similarity search.
+⭐ If a project helps you, consider starring that repository!
 
-Context-aware question answering.
-
-Tech: Python, Streamlit, PostgreSQL, pgvector, Embeddings, RAG
-
-☕ MCP AI Studio
-
-A Spring Boot API and UI demonstrating an MCP-powered AI workflow.
-
-Accepts prompts through REST APIs.
-
-Integrates MCP endpoints.
-
-Uses OpenAI to refine results.
-
-Returns MCP data alongside AI-generated responses.
-
-Tech: Java, Spring Boot, MCP, OpenAI, Docker
-
-🔗 LangChain4j Demo
-
-A Java-based project exploring LangChain4j integration.
-
-Tech: Java, Maven, LangChain4j
-
----
-
-💻 Most Used Languages
-
-<p align="center">   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveen110195&layout=donut&theme=tokyonight&hide_border=true" height="180"/> </p>
-
----
-
-💭 Random Motivational Quote
-
-<p align="center">   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Developer Quote"/> </p>
-
-<p align="center">   ⭐ <b>Keep Learning | Keep Building | Keep Growing</b> ⭐ </p>
-
-⭐ Thanks for visiting my profile!
+</div>
